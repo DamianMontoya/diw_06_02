@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.000
+Hello, good day everyone. I am Damián Montoya, a Web Application Design student at the Estella Polytechnic.
+
+00:00:07.500 --> 00:00:12.500
+In this tutorial video, I will present Vida con Patitas.
+
+00:00:13.000 --> 00:00:15.500
+A website developed within the Web Interface Design module.
+
+00:00:16.000 --> 00:00:22.500
+The main purpose is to facilitate pet adoption, acting as a bridge between animals looking for a home
+
+00:00:23.000 --> 00:00:26.500
+and people interested in adopting responsibly and consciously.
+
+00:00:27.000 --> 00:00:32.500
+The first contact with the platform is the login.
+
+00:00:33.000 --> 00:00:35.500
+It shows the name along with the slogan.
+
+00:00:36.000 --> 00:00:44.500
+Here, we can log in or register in case we don't have an account.
+
+00:00:45.000 --> 00:00:51.500
+Through this button, it takes us to the relevant form where we need to fill in the username, email,
+
+00:00:52.000 --> 00:00:57.500
+and password, then click to create an account. In this case, we will proceed without an account.
+
+00:00:58.000 --> 00:01:04.500
+This takes us to the main page where we have the animal section.
+
+00:00:05.000 --> 00:01:10.500
+With the list of all animals available for adoption, along with a brief description of each one.
+
+00:00:11.000 --> 00:01:15.500
+The name, breed, age, shelter, and personality.
+
+00:01:16.000 --> 00:01:21.500
+At the bottom, we have two buttons, one to like and another to share.
+
+00:01:22.000 --> 00:01:27.500
+On the left, we have a filter panel that allows us to filter the search according to our preferences.
+
+00:01:28.000 --> 00:01:37.500
+If we wish to search for a large dog, we apply the filter, and it will show us the corresponding animals.
+
+00:01:38.000 --> 00:01:43.500
+Additionally, if we click on an animal, it will take us to the detailed list of that animal.
+
+00:01:44.000 --> 00:01:48.500
+In this case, for example, we select Max.
+
+00:01:49.000 --> 00:01:53.500
+On this page, we have all the details of the selected animal.
+
+00:01:54.000 --> 00:02:08.500
+It includes age, size, likes and dislikes, along with a button that will take us to the contact page to adopt it.
+
+00:02:09.000 --> 00:02:22.500
+On this page, we can fill in the form. In this case, for example, we want to adopt Max.
+
+00:02:23.000 --> 00:02:30.500
+And we send a message. Of course, the forms are validated.
+
+00:02:31.000 --> 00:02:35.500
+We click on "send message," and a message confirming the successful action appears.
+
+00:02:36.000 --> 00:02:43.500
+On the right side, we have the contact details: phone, address, and email.
+
+00:02:44.000 --> 00:02:48.500
+So we can contact the animal center directly.
+
+00:02:49.000 --> 00:02:59.500
+At the bottom, the social media of this project.
