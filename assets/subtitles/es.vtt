@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.000
+Hola, muy buenas a todos. Soy Damián Montoya, estudiante de Diseño de Aplicaciones Web en el Politécnico de Estella.
+
+00:00:07.500 --> 00:00:12.500
+En este video tutorial voy a presentaros Vida con Patitas.
+
+00:00:13.000 --> 00:00:15.500
+Una página web desarrollada dentro del módulo Diseño de Interfaces Web.
+
+00:00:16.000 --> 00:00:22.500
+El propósito principal es facilitar la adopción de mascotas, sirviendo de puente entre animales que buscan un hogar
+
+00:00:23.000 --> 00:00:26.500
+y personas interesadas en adoptar de manera responsable y consciente.
+
+00:00:27.000 --> 00:00:32.500
+El primer contacto con la plataforma es el inicio de sesión.
+
+00:00:33.000 --> 00:00:35.500
+Que muestra el nombre junto con su eslogan.
+
+00:00:36.000 --> 00:00:44.500
+Aquí podemos iniciar sesión o registrarnos en caso de que no tengamos una cuenta.
+
+00:00:45.000 --> 00:00:51.500
+A través de este botón nos lleva al formulario correspondiente donde deberemos cumplimentar usuario, correo electrónico
+
+00:00:52.000 --> 00:00:57.500
+y contraseña y darle a crear cuenta. En este caso accederemos sin cuenta.
+
+00:00:58.000 --> 00:01:04.500
+Esto nos lleva a la página principal donde tenemos la sección de animales.
+
+00:01:05.000 --> 00:01:10.500
+Con el listado de todos aquellos que están en adopción, con una breve descripción de cada uno.
+
+00:01:11.000 --> 00:01:15.500
+El nombre, raza, edad, refugio y carácter.
+
+00:01:16.000 --> 00:01:21.500
+En la parte inferior tenemos dos botones, uno para darle a me gusta y otro para compartir.
+
+00:01:22.000 --> 00:01:27.500
+A la izquierda tenemos un panel de filtros que nos permite filtrar la búsqueda según nuestras preferencias.
+
+00:01:28.000 --> 00:01:37.500
+Si deseamos buscar un perro de tamaño grande, aplicamos el filtro y nos saldrán los animales correspondientes.
+
+00:01:38.000 --> 00:01:43.500
+Además, si hacemos click en un animal, nos llevará a la lista detallada del mismo.
+
+00:01:44.000 --> 00:01:48.500
+En este caso, por ejemplo, seleccionamos Max.
+
+00:01:49.000 --> 00:01:53.500
+En esta página tenemos todos los detalles del animal seleccionado.
+
+00:01:54.000 --> 00:02:08.500
+Donde incluye edad, tamaño, lo que le gusta y no, junto con un botón que nos llevará a la página de contacto para poder adoptarlo.
+
+00:02:09.000 --> 00:02:22.500
+En esta página podemos cumplimentar el formulario. En este caso, por ejemplo, queremos adoptar a Max.
+
+00:02:23.000 --> 00:02:30.500
+Y enviamos un mensaje. Por supuesto, los formularios tienen validación.
+
+00:02:31.000 --> 00:02:35.500
+Hacemos click en "enviar mensaje" y nos aparece un mensaje confirmando la acción exitosa.
+
+00:02:36.000 --> 00:02:43.500
+En la parte derecha tenemos los datos de contacto: teléfono, dirección y correo.
+
+00:02:44.000 --> 00:02:48.500
+Para poder contactar directamente con el centro de animales.
+
+00:02:49.000 --> 00:02:59.500
+En la parte inferior, las redes sociales de este proyecto.

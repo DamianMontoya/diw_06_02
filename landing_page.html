@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adoptame - Video Tutorial</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+  <style>
+    .video-container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .subtitles {
+      font-size: 14px;
+      color: #555;
+      text-align: center;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body class="min-h-screen bg-white text-black flex flex-col">
+
+  <!-- Menú -->
+  <nav class="bg-[#865E53] text-white p-2 sm:p-4 flex justify-between items-center fixed top-0 w-full sm:static sm:flex sm:justify-between">
+    <div class="flex items-center space-x-4">
+      <a href="#">
+        <img src="assets/logo/logo_white_no_background.png" alt="Logo" class="h-8 lg:h-12" />
+      </a>
+      <h1 class="text-sm sm:text-base md:text-lg font-bold hidden md:block">VIDA CON PATITAS</h1>
+    </div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="flex-grow flex flex-col items-center justify-center text-center p-6 pb-14 sm:pb-0 mt-20 ">
+    <header class="max-w-2xl">
+      <h1 class="text-5xl font-extrabold text-[#865E53]">Adoptame - Video Tutorial</h1>
+      <p class="text-lg text-black mt-4">
+        Aprende a utilizar nuestra plataforma para encontrar tu compañero de vida de forma sencilla.
+      </p>
+    </header>
+
+    <!-- Video Tutorial -->
+    <section class="video-container mt-10">
+      <video controls width="100%">
+        <source src="video_final.mp4" type="video/mp4">
+        <track src="subtitles_es.vtt" kind="subtitles" srclang="es" label="Español" default>
+        Tu navegador no soporta el elemento de video.
+      </video>
+      <div class="subtitles">
+        Activa los subtítulos para una experiencia más accesible.
+      </div>
+    </section>
+
+</body>
+</html>
